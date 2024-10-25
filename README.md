@@ -21,6 +21,6 @@ Am Anfang hatte ich ein paar Schwierigkeiten, da ich ein NuGet-Paket nicht über
 
 *Bemerkung zu den zwei Files
 
-Prgram.cs zeigt das Backend
+Program.cs zeigt das Backend
 
 Index.cshtml zeigt das Frontend

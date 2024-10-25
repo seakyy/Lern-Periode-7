@@ -15,3 +15,7 @@ Heute habe ich mir vorgenommen, zwei Projekte miteinander zu kombinieren. Am Sch
 Zuerst habe ich alles eingerichtet und mich auf Microsoft Learn informiert. Als Erstes musste ich eine ASP.NET Core-App in Visual Studio erstellen. Danach habe ich eine grobe Version der Benutzeroberfläche erstellt und zum Schluss den Artikel "Übersicht über ASP.NET Core" durchgelesen.
 
 Am Anfang hatte ich ein paar Schwierigkeiten, da ich ein NuGet-Paket nicht über Visual Studio installieren konnte und daher in die Kommandozeile (CMD) wechseln musste.
+
+*Bemerkung zu den zwei Files
+Prgram.cs zeigt das Backend
+Index.cshtml zeigt das Frontend
